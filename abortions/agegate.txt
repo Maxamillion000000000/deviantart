@@ -1,0 +1,103 @@
+After login, agegate and mature-tag remain active but other mature classes disappear on reload. 
+"mature tag" is just text above the report button reading, "mature". 
+not search, timing issue, checking when the page has a stale/static content. 
+
+<img collect_rid="1:688613544" src="https://orig00.deviantart.net/9c4f/f/2017/176/b/c/saber_bride_by_dutomaster-dbdzdm0.png" data-embed-type="deviation" data-embed-format="thumb" data-embed-id="688613544" alt="Saber Bride by dutomaster" class="dev-content-full " width="2160" height="1074">
+
+
+
+<a class="devwatch dev-page-watch-button" devwatch="masateru" title="Watch this deviant" href="https://www.deviantart.com/watching/" data-is_watched="0" data-username="masateru" data-symbol="~" data-userid="7814787" data-iconselector=".dev-title-avatar .avatar" data-is_group="false" data-ga_source="deviation" data-dwait-deps="jms/pages/devwatch-editor.js" data-dwait-click="DevWatchEditor.do_watch">            <i class="icon i18"></i><span>Watch</span><b></b>        </a>
+
+<span class="mature-tag followed-by-report-button">Mature Content</span>
+
+
+
+<div class="agegate strict " data-dwait-domready="AgeGate.loggedout" data-dwait-deps="jms/pages/agegate.js">
+        <div class="agegate-flex-container">
+            <div class="agegate-option">
+                <div class="blocked agegate-option-content">
+                    <div class="nogo icon-blocked"></div>
+                    <h1>Mature Content</h1>
+                    <p class="reason">This content is intended for mature audiences.</p>
+                    <div class="login matureoption">
+                        <a href="javascript:void(0)" class="loginbutton agegate-button smbutton smbutton-blue smbutton-size-default">Sign In To Confirm Your Age</a>
+                    </div>
+                </div>
+            </div>
+            <hr>
+            <div class="agegate-option">
+                <div class="date agegate-option-content">
+                    <p class="explain">or, enter your birth date.<sup class="note-ref">*</sup></p>
+                    <div class="datefields">
+                        <span class="datefield"><input name="month" id="month" size="2" min="1" max="12" maxlength="2" placeholder="MM" type="tel"><span class="label"><br>Month</span></span>
+                        <span class="datefield"><input name="day" id="day" size="2" maxlength="2" min="1" max="31" placeholder="DD" type="tel"><span class="label"><br>Day</span></span>
+                        <span class="datefield"><input name="year" id="year" size="4" maxlength="4" min="1900" max="2018" placeholder="YYYY" type="tel"><span class="label"><br>Year*</span></span>
+                    </div>
+                    <div class="errors">
+                        <div class="error date">Please enter a valid date format (mm-dd-yyyy)</div>
+                        <div class="error agree">Please confirm you have reviewed DeviantArt's Terms of Service below.</div>
+                    </div>
+                    <div class="note"><sup class="note-ref">*</sup> We do not retain your date-of-birth information.</div>
+                    <div class="tos">
+                        <label class="tos-label">
+                            <input id="agree_tos" class="agree-tos" name="agree_tos" type="checkbox">
+                            I have reviewed DeviantArt's <a href="https://about.deviantart.com/policy/service/" target="_blank">Terms of Service</a>.
+                        </label>
+                    </div>
+                    <input value="Submit" class="submitbutton disabledbutton agegate-button smbutton smbutton-green smbutton-size-default" type="submit">
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<div class="agegate strict " data-dwait-domready="AgeGate.loggedout" data-dwait-deps="jms/pages/agegate.js">
+        <div class="agegate-flex-container">
+            <div class="agegate-option">
+                <div class="blocked agegate-option-content">
+                    <div class="nogo icon-blocked"></div>
+                    <h1>Mature Content</h1>
+                    <p class="reason">This content is intended for mature audiences.</p>
+                    <div class="login matureoption">
+                        <a href="javascript:void(0)" class="loginbutton agegate-button smbutton smbutton-blue smbutton-size-default">Sign In To Confirm Your Age</a>
+                    </div>
+                </div>
+            </div>
+            <hr>
+            <div class="agegate-option">
+                <div class="date agegate-option-content">
+                    <p class="explain">or, enter your birth date.<sup class="note-ref">*</sup></p>
+                    <div class="datefields">
+                        <span class="datefield"><input name="month" id="month" size="2" min="1" max="12" maxlength="2" placeholder="MM" type="tel"><span class="label"><br>Month</span></span>
+                        <span class="datefield"><input name="day" id="day" size="2" maxlength="2" min="1" max="31" placeholder="DD" type="tel"><span class="label"><br>Day</span></span>
+                        <span class="datefield"><input name="year" id="year" size="4" maxlength="4" min="1900" max="2018" placeholder="YYYY" type="tel"><span class="label"><br>Year*</span></span>
+                    </div>
+                    <div class="errors">
+                        <div class="error date">Please enter a valid date format (mm-dd-yyyy)</div>
+                        <div class="error agree">Please confirm you have reviewed DeviantArt's Terms of Service below.</div>
+                    </div>
+                    <div class="note"><sup class="note-ref">*</sup> We do not retain your date-of-birth information.</div>
+                    <div class="tos">
+                        <label class="tos-label">
+                            <input id="agree_tos" class="agree-tos" name="agree_tos" type="checkbox">
+                            I have reviewed DeviantArt's <a href="https://about.deviantart.com/policy/service/" target="_blank">Terms of Service</a>.
+                        </label>
+                    </div>
+                    <input value="Submit" class="submitbutton disabledbutton agegate-button smbutton smbutton-green smbutton-size-default" type="submit">
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+<a class="thumb ismature" href="https://ronindude.deviantart.com/art/Cave-Elf-with-Spear-Sharp-731516932" title="Cave Elf with Spear - Sharp by RoninDude, Feb 18, 2018 in Digital Art > Drawings &amp; Paintings > People > Pin-up" data-sigil="thumb">
+                <div class="thumb_agegate">
+            <div class="agegate">
+                <div class="nogo icon-blocked"></div>
+                <h1>Mature Content</h1>
+            </div>
+        </div>
+        <i></i><img alt="Cave Elf with Spear - Sharp by RoninDude" src="https://t00.deviantart.net/Nd_TTzwdRwnqLRzKrTrR-lbR-5U=/fit-in/150x150/filters:no_upscale():origin()/pre00/5a52/th/pre/i/2018/049/5/f/cave_elf_with_spear___sharp_by_ronindude-dc3iy2s.png" data-src="https://t00.deviantart.net/Nd_TTzwdRwnqLRzKrTrR-lbR-5U=/fit-in/150x150/filters:no_upscale():origin()/pre00/5a52/th/pre/i/2018/049/5/f/cave_elf_with_spear___sharp_by_ronindude-dc3iy2s.png" srcset="https://t00.deviantart.net/Nd_TTzwdRwnqLRzKrTrR-lbR-5U=/fit-in/150x150/filters:no_upscale():origin()/pre00/5a52/th/pre/i/2018/049/5/f/cave_elf_with_spear___sharp_by_ronindude-dc3iy2s.png 150w,https://t00.deviantart.net/DuRYsYBayygVSJ_EMpBUuHQsBEo=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre00/5a52/th/pre/i/2018/049/5/f/cave_elf_with_spear___sharp_by_ronindude-dc3iy2s.png 622w,https://t00.deviantart.net/dToZTy7lTV5mbW7y25jFGKQCELc=/fit-in/800x400/filters:fixed_height(100,100):origin()/pre00/5a52/th/pre/i/2018/049/5/f/cave_elf_with_spear___sharp_by_ronindude-dc3iy2s.png 711w,https://img00.deviantart.net/66f7/i/2018/049/5/f/cave_elf_with_spear___sharp_by_ronindude-dc3iy2s.png 1024w" sizes="150px" width="150" height="84"></a>
+
+

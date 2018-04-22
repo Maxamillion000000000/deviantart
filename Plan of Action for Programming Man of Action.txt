@@ -1,0 +1,18 @@
+#Deviantart Backup
+0. Install Needed Mods. 
+0.5 test for errors when downloading mature-content. Login verified for bot?
+1. Write url downloading from as site. 
+2. Script to open images to their largest size. Create alternative behavior for failstates. 
+3. Download image to Backup folder. 
+4. Go to next page using next button. Alternative for failstate (last page)
+5. Alter code to start from next folder url. 
+6. code own display software to see images in their fullsize glory. 
+7. Set new background pattern from deviantart backup folder.   
+
+--
+better to download everything from the gallery because there is a gallery view? not an option in xkcd trial case. what about need to scroll down to load?
+first click initiation?
+
+<img data-sigil="torpedo-img" src="https://t00.deviantart.net/r5Dh5yQLZRPw9Joe_uOjrLe2EsU=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre00/b4aa/th/pre/f/2018/064/7/5/hollow_swing01_by_shocksplash-dc50xiu.jpg" alt="Hollow Swing01 by shocksplash">
+
+https://capi-larry.deviantart.com/art/Hollow-Swing01-734035638
